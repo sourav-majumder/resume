@@ -1,4 +1,4 @@
 # resume
 This is my resume.
 
-Compile it using pdftex.
+Compile it using TeXstudio.
